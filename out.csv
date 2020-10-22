@@ -1,0 +1,323 @@
+,Last name,First name,Host Institution local name,Host Institution name,Host Country,Acronym,Title,Panel,Domain
+3,BERNHARDT,Birgitta,Technische Universität Graz,Graz University of Technology,AT,ELFIS,Electronic Fingerprint Spectroscopy,PE2,PE
+4,ENNSER JEDENASTIK,Laurenz,Universität Wien,University of Vienna,AT,DEPART,The ‘de-party-politicization’ of Europe’s political elites. How the rise of technocrats and political outsiders transforms representative democracy.,SH2,SH
+5,FISCHER,Julian,Institute of Science and Technology Austria,Institute of Science and Technology Austria,AT,RandSCALES,Bridging Scales in Random Materials,PE1,PE
+6,FORSTER,Sebastian,Paris-Lodron-Universität Salzburg,University of Salzburg,AT,DynASoAr,Dynamic Algorithms Against Strong Adversaries,PE6,PE
+7,INGUGLIA,Gianluca,Österreichische Akademie der Wissenschaften,Austrian Academy of Sciences (AAS),AT,InterLeptons,A search for new interactions at Belle II using leptons,PE2,PE
+8,OLAR,Ovidiu-Victor,Österreichische Akademie der Wissenschaften,Austrian Academy of Sciences (AAS),AT,ORTHPOL,Orthodoxies and Politics. The Religious Reforms of Mid-17th Century in Eastern and South-Eastern Europe,SH6,SH
+9,PLASCHKA,Clemens,Forschungsinstitut für Molekulare Pathologie Ges.m.b.H,The Research Institute of Molecular Pathology,AT,RNApaxport,Mechanisms of human mRNA packaging and export,LS1,LS
+10,PLESCIA,Carolina,Universität Wien,University of Vienna,AT,DeVOTE,"The meanings of ‘voting’ for ordinary citizens, their causes and consequences",SH2,SH
+3,SCHINDLER,Philipp,Universität Innsbruck,University of Innsbruck,AT,QCOSMO,Quantum characterization and control of single molecules,PE2,PE
+4,SIMAKOV,Oleg,Universität Wien,University of Vienna,AT,METASCALE,Modes of genome evolution during major metazoan transitions,LS8,LS
+5,WAITUKAITIS,Scott,Institute of Science and Technology Austria,Institute of Science and Technology Austria,AT,Tribocharge,Tribocharge:  a multi-scale approach to an enduring problem in physics,PE3,PE
+6,ANGE,Olivia,Université Libre de Bruxelles,Free University of Brussels (ULB),BE,SeedsValues,Flourishing Seeds. Value Creation and Relatedness in Agrobiodiversity Hotspots,SH3,SH
+7,BEETS,Isabel,Katholieke Universiteit Leuven,Catholic University of Leuven,BE,FLEXPEPNET,Nervous system reprogramming by flexible neuropeptidergic networks,LS5,LS
+8,DE BOEVRE,Marthe,Universiteit Gent,Ghent University,BE,HUMYCO,Investigating the Human Mycobolome through Uniting Large-scale Epidemiological and Mechanistic Poly-omic Designs,LS9,LS
+9,DE CLERCQ,Inge,Universiteit Gent,Ghent University,BE,COSI,Understanding organelle communication through contact sites in plant stress responses,LS3,LS
+10,DUSSELIER,Michiel,Katholieke Universiteit Leuven,Catholic University of Leuven,BE,Z-EURECA,ZEolite synthesis in Unusual Reactors for Enhanced CAtalysts,PE5,PE
+3,GOBBI,Paula,Université Libre de Bruxelles,Free University of Brussels (ULB),BE,IDED,"Inheritance, Demographics, and Economic Development",SH1,SH
+4,KACZMAREK,Anna,Universiteit Gent,Ghent University,BE,NORTH,NanOthermomteRs for THeranostics,PE5,PE
+5,LIZARAZO RODRIGUEZ,Claudia Liliana,Vrije Universiteit Brussel,Free University of Brussels (VUB),BE,CURIAE VIRIDES,How the third wave of global judicial (and social) activism is filling ecological governance gaps and challenging the liability remedy paradigm.,SH2,SH
+6,MERTES,Heidi,Universiteit Gent,Ghent University,BE,DIME,Disruptive innovation in healthcare requires disruptive innovation in medical ethics,SH5,SH
+7,MEYTS,Isabelle,Katholieke Universiteit Leuven,Catholic University of Leuven,BE,MORE2ADA2,Multi-omics research applied to Human ADA2 deficiency and beyond,LS7,LS
+8,MOLINA LOPEZ,Francisco,Katholieke Universiteit Leuven,Catholic University of Leuven,BE,3DALIGN,Enhancing the performance of 3D-printed organic thermoelectrics by electric field-assisted molecular alignment,PE7,PE
+9,RAPINO,Francesca,Université de Liège,University of Liege,BE,tRNAtoGO,“tRNA actors” heterogeneity: a new identifier of cancer stem cells,LS4,LS
+3,WYNANTS,Nele,Université Libre de Bruxelles,Free University of Brussels (ULB),BE,SciFair,"Science at the Fair: Performing Knowledge and Technology in Western Europe, 1850-1914",SH5,SH
+4,AL NABHANI,Ziad,Universität Bern,University of Bern,CH,WePredict,Microbiota and immune responses at weaning predict the susceptibility to chronic inflammatory diseases in adulthood,LS6,LS
+5,ANASTASAKI,Athina,Eidgenössische Technische Hochschule Zürich,Swiss Federal Institute of Technology Zurich (ETH Zurich),CH,DEPO,Reversing Controlled Radical Polymerisation: Towards Complete Depolymerisation,PE5,PE
+6,BASTINGS,Maartje,Ecole Polytechnique Fédérale de Lausanne,Swiss Federal Institute of Technology Lausanne (EPFL),CH,InActioN,Intracellular Action of DNA based Nano-materials,PE5,PE
+7,BEHR,Whitney,Eidgenössische Technische Hochschule Zürich,Swiss Federal Institute of Technology Zurich (ETH Zurich),CH,S-SIM,Sediments and Subduction Interface Mechanics: from micro-scale creep to global plate tectonics,PE10,PE
+8,BOURRIER,Vincent,Université de Genève,University of Geneva,CH,SPICE DUNE,A SpectroPhotometric Inquiry of Close-in Exoplanets around the Desert to Understand their Nature and Evolution,PE9,PE
+9,CALVAO,Filipe,Institut de Hautes Etudes Internationales et du Developpement,Graduate Institute of International and Development studies,CH,SYNTHLIVES,Synthetic Lives: The Futures of Mining,SH3,SH
+10,CARLOTTO,Alessandro,Eidgenössische Technische Hochschule Zürich,Swiss Federal Institute of Technology Zurich (ETH Zurich),CH,CHANGE,"CHallenges in ANalysis and GEometry, between mean and scalar curvature",PE1,PE
+3,OBERLACK,Christoph,Universität Bern,University of Bern,CH,COMPASS,"Is environmental justice necessary for human well being? Comparative analysis of certification schemes, inclusive business, and solidarity economy strategies",SH2,SH
+4,PATRIARCHI,Tommaso,Universität Zürich,University of Zurich,CH,OPTONEUROCHEM,Genetically encoded sensors for imaging neurochemical dynamics in vivo,LS9,LS
+5,PREISINGER WINKLER,Raphaèle,Universität Zürich,University of Zurich,CH,GLOBECOSAL,Global Economies of Salvation. Art and the Negotiation of Sanctity in the Early Modern Period,SH5,SH
+6,ROBERT,Christelle,Universität Bern,University of Bern,CH,PRENEMA,Mechanisms and Ecological Relevance of Direct Plant Responses to the Third Trophic Level,LS9,LS
+7,SCHRAMM,Steven,Université de Genève,University of Geneva,CH,DISCOVERHEP,Turning noise into data: a discovery strategy for new weakly-interacting physics,PE2,PE
+8,SCHULER,Bruno,Eidgenössische Materialprüfungs- und Forschungsanstalt,Swiss Federal Laboratories for Materials Science and Technology,CH,AQE2D,Atomic Quantum Emitters in 2D Frameworks,PE3,PE
+9,SERRA MONTOLI,Joaquim,Eidgenössische Technische Hochschule Zürich,Swiss Federal Institute of Technology Zurich (ETH Zurich),CH,StableIF,"Stable interfaces: phase transitions, minimal surfaces, and free boundaries",PE1,PE
+3,BELLINI,Francesca,Technische Universität München,Technical University of Munich,DE,CosmicAntiNuclei,Constraining cosmic antinuclei fluxes for indirect dark matter searches with precision measurements of rare antimatter cluster formation,PE2,PE
+4,BERGEMANN,Maria,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,ELEMENTS,Role of extreme events in Galaxy evolution,PE9,PE
+5,BERNABEU AZNAR,Maria,European Molecular Biology Laboratory,European Molecular Biology Laboratory,DE,Mal3D-BBB,Understanding Cerebral Malaria using 3D Blood Brain Barrier models,LS6,LS
+6,BORCHARDT,Lars,Ruhr-Universität Bochum,Ruhr University Bochum,DE,Mechanocat,Using milling balls as catalysts –  Understanding the novel concept of direct mechanocatalysis,PE5,PE
+7,BUCHER,Dominik,Technische Universität München,Technical University of Munich,DE,SingleCellQNMR,Single-cell nuclear magnetic resonance spectroscopy with diamond quantum sensors,PE4,PE
+8,BUCHHOLZ,Veit,Technische Universität München,Technical University of Munich,DE,SCIMAP,Roads to memory: Studying the regulation of lymphocyte stemness by fate mapping of single T and NK cells,LS6,LS
+9,BURBULLA,Lena,Ludwig-Maximilians Universität München,University of Munich (LMU),DE,oxDOPAMINE,Unraveling the mystery of preferential degeneration of midbrain neurons in neurodegenerative diseases,LS5,LS
+3,BURLA,Maurizio,Technische Universität Berlin,Technical University of Berlin,DE,ELEPHANT,"On-Chip Electronics, Photonics, Plasmonics and Antennas: A Novel Enabling Platform for sub-THz Signal Processing",PE7,PE
+4,BUSON,Sara,Julius-Maximilians Universität Würzburg,Julius-Maximilians University of Wurzburg,DE,MessMapp,Mapping Highly-Energetic Messengers throughout the Universe,PE9,PE
+5,CALISKAN,Neva,Helmholtz-Zentrum für Infektionsforschung,Helmholtz Centre for Infection Research,DE,T-FRAME,Real-time analysis of ribosomal frameshifting and its impact on immunity and disease,LS1,LS
+6,CZACZKES,Tomer,Ludwig-Maximilians Universität München,University of Munich (LMU),DE,COGNITIVE CONTROL,Revolutionizing invasive alien species control using behavioural economics and animal cognition,LS8,LS
+7,DAUMANN,Lena,Ludwig-Maximilians Universität München,University of Munich (LMU),DE,LANTHANOPHOR,Innovative bioinspired strategies towards selective lanthanide complexation and separation: From bacterial chelators to applications.,PE5,PE
+8,DE LA ROSA,Kathrin,Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,DE,AutoEngineering,Engineering antibodies in B cells using endogenous AID activity,LS6,LS
+9,DEMBERG,Vera,Universität des Saarlandes,Saarland University,DE,IDDISC,Individualized Interaction in Discourse,PE6,PE
+3,DILME,Francesc,Rheinische Friedrich Wilhelms-Universität Bonn,University of Bonn,DE,InfoTrans,Information Transmissioin in Markets,SH1,SH
+4,FEUCHT,Judith,Eberhard Karls Universität Tübingen,University of Tübingen,DE,CARsen,Senolytic CAR T cells as novel therapeutic concept for solid tumors and senescence-associated diseases.,LS7,LS
+5,FILARSKY,Michael,Universität Hamburg,University of Hamburg,DE,MALSWITCH,Uncovering the Mechanisms Behind Adaptive Gene Expression Switching in Malaria Parasites,LS6,LS
+6,FREYBERGER,Joachim,Rheinische Friedrich Wilhelms-Universität Bonn,University of Bonn,DE,NPSkills,Analysis of Structural Economic Models: Misspecification and Flexible Estimation,SH1,SH
+7,FUHRMANN,Gregor,Helmholtz-Zentrum für Infektionsforschung,Helmholtz Centre for Infection Research,DE,Gels4Bac,Pathogen-responsive hydrogels release antimicrobial vesicles for local infection treatment,PE5,PE
+8,FÜRST,Johannes,Friedrich-Alexander Universität Erlangen Nürnberg,University of Erlangen Nuremberg,DE,FRAGILE,Next generation framework for global glacier forecasting,PE10,PE
+9,GALEJ,Wojciech,European Molecular Biology Laboratory,European Molecular Biology Laboratory,DE,MinorSplice,Functional and structural studies of the U12 dependent splicing in human cells,LS1,LS
+10,GALLISTL,Dietmar,Friedrich-Schiller Universität Jena,Friedrich-Schiller University of Jena,DE,DAFNE,Discretization and adaptive approximation of fully nonlinear equations,PE1,PE
+3,GLÖGGLER,Stefan,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,HyperULFNMR,Hyperpolarized ultra-low field (ULF) magnetic resonance to design next generation functional contrast agents,PE4,PE
+4,GOMEZ RODRIGUEZ,Manuel,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,HumanML,Human-Centric Machine Learning,PE6,PE
+5,GONZÁLEZ-GARCÍA,Lola,Leibniz Institut für neue Materialien,Leibnitz Institute for New Materials,DE,ELECTROFLUID,Conductive suspension flows for soft electronics,PE8,PE
+6,GOSSMANN,Toni,Universität Bielefeld,University of Bielefeld,DE,DECAF,Deciphering adaptive footprints of epiC evolution on different timescales,LS8,LS
+7,GREB,Lutz,Ruprecht-Karls-Universität Heidelberg,University of Heidelberg,DE,pCx4All,Calix[4]pyrrole for p-block elements: anti-van’t Hoff-Le Bel configuration and ligand-element cooperativity revive the standard oxidation states.,PE5,PE
+8,GROSSHANS,Holger,Physikalisch-Technische Bundesanstalt,PTB German National Metrology Institute,DE,PowFEct,Preventing Explosions: How do Powder Flows Electrify?,PE8,PE
+9,GRUENEISEN,Sebastian,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,ORIGINSOFCORRUPT ION,The developmental origins of corruption: A cooperative perspective,SH4,SH
+3,GRUSDT,Fabian,Ludwig-Maximilians Universität München,University of Munich (LMU),DE,SimUcQuam,Simulating ultracold correlated quantum matter: New microscopic paradigms,PE2,PE
+4,HECKMANN,Stefan,Leibniz - Institut für Pflanzengenetik und Kulturpflanzenforschung,The Leibniz Institute of Plant Genetics and Crop Plant Research,DE,MEIOBARMIX,Meiosis in barley: Mixing it up,LS9,LS
+5,HENSSEN,Anton,Charité  Universitätsmedizin Berlin,Charité - University Hospital,DE,CancerCirculome,Circular DNA-driven cancer genome remodeling,LS4,LS
+6,HOFMANOVA,Martina,Universität Bielefeld,University of Bielefeld,DE,FluFloRan,Mathematical analysis of fluid flows: the challenge of randomness,PE1,PE
+7,KUEHN,Esther,Otto-Von-Guericke Universität Magdeburg,University of Magdeburg,DE,BodyMemory,How does our brain store bodily experiences?,SH4,SH
+8,KUES,Michael,Leibniz Universität Hannover,University of Hannover,DE,QFreC,Smart protonic quantum frequency circuits,PE7,PE
+9,LANGEN,Tim,Universität Stuttgart,University of Stuttgart,DE,NEWMAT,Supersolids and Beyond: Exploring New States of Matter  with Laser-Cooled Dipolar Molecules,PE2,PE
+10,LERCH,Mathias,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,MIC,"Migration in cities of the global South: drivers, interactions and socio demographic consequences",SH3,SH
+3,LI,Yang,Helmholtz-Zentrum für Infektionsforschung,Helmholtz Centre for Infection Research,DE,ModVaccine,Cross-omics integration to identify modulators for improving vaccine efficacy,LS2,LS
+4,LICHTENBERG,Crispin,Julius-Maximilians Universität Würzburg,Julius-Maximilians University of Wurzburg,DE,Bismuth Goes Radical,Bismuth Compounds in Radical Reactions: Fundamental Aspects and Synthetic Applications,PE5,PE
+5,LIEPE,Juliane,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,IMAP,Integrative mechanistic and multi-omics Modelling of Antigen Presentation to predict epitope dynamics,LS6,LS
+6,LIU,Fan,Forschungsverbund Berlin e.V.,Forschungsverbund Berlin e.V.,DE,SynLink,Revealing the Synapse Architecture and Plasticity by Structural Interactomics,LS2,LS
+7,LOMFELD,Bertram,Freie Universität Berlin,Free University of Berlin,DE,RESOLVENCY,A Global Theory of Reflexive Debt (Deliberation),SH2,SH
+8,MALINSKY-BULLER,Ariel,"Römisch Germanisches Zentralmuseum, Leibniz Forschungsinstitut für Archäologie","Romano-germanic Central Museum, Leibniz Research Institute for Archeology",DE,TransCause,Investigating Pleistocene population dynamics in the Southern Caucasus,SH6,SH
+9,MALKEMPER,Erich Pascal,Stiftung Caesar,Caesar Research Center,DE,NeuroMagMa,The Neurobiology of Magnetic Orientation in Mammals,LS5,LS
+10,MASCHER,Martin,Leibniz - Institut für Pflanzengenetik und Kulturpflanzenforschung,The Leibniz Institute of Plant Genetics and Crop Plant Research,DE,TRANSFER,Edaphic adaptation in barley wild relatives and its transfer to the domesticate,LS9,LS
+3,MENDEN,Michael,Helmholtz Zentrum München - Deutsches Forschungszentrum für Gesundheit und Umwelt,Helmholtz-German Research Centre for Environmental Health,DE,COMBAT-RES,Predicting potent drug combinations by exploiting monotherapy resistance,LS7,LS
+4,MERLE,Benoit,Friedrich-Alexander Universität Erlangen Nürnberg,University of Erlangen Nuremberg,DE,NanoHighSpeed,High-speed Deformation and Failure of Materials at the Nanometer Scale,PE8,PE
+5,MEYER,Manuel,Universität Hamburg,University of Hamburg,DE,AxionDM,Searching for axion and axion-like-particle dark matter in the laboratory and with high-energy astrophysical observations,PE2,PE
+6,MOMOTENKO,Dmitry,Carl von Ossietzky Universität Oldenburg,Carl von Ossietzky University of Oldenburg,DE,NANO-3D-LION,Nanoscale 3D Printing of a Lithium Ion Battery: Rethinking the Fabrication Concept for a Revolution in Energy Storage,PE8,PE
+7,MUELLER,Matthias A.,Leibniz Universität Hannover,University of Hannover,DE,Cont4Med,Estimation and control under limited information with application to biomedical systems,PE7,PE
+8,MUNZ,Dominik,Friedrich-Alexander Universität Erlangen Nürnberg,University of Erlangen Nuremberg,DE,PUSH-IT,Charge Separation – A General Motif for the Activation and Catalytic Functionalization of Strong Bonds,PE5,PE
+9,NAWROTH,Janna,Helmholtz Zentrum München - Deutsches Forschungszentrum für Gesundheit und Umwelt,Helmholtz-German Research Centre for Environmental Health,DE,MecCOPD,Deciphering the role of biomechanics  in chronic obstructive pulmonary disease,LS7,LS
+10,PALERMO,Giulia,Technische Universität München,Technical University of Munich,DE,Allosteric-CRISPR,Computational Investigations of Allostery between Proteins and Nucleic Acids in CRISPR Cas9,PE4,PE
+3,PETIT,Tristan,Helmholtz-Zentrum Berlin für Materialien und Energie,Helmholtz Centre Berlin for Materials and Energy,DE,NANOMXM,Nanoscale Chemical Imaging of MXene Electrochemical Storage by Operando Scanning X-ray Microscopy,PE4,PE
+4,PFEIFFER,Marcel,Universität Stuttgart,University of Stuttgart,DE,MEDUSA,Multiscale Fluid and Plasma Dynamics using Particles,PE8,PE
+5,PIAZZA,Ilaria,Max-Delbrück-Centrum für Molekulare Medizin in der Helmholtz-Gemeinschaft,Max Delbrück Center for Molecular Medicine in the Helmholtz Association,DE,proteoRAGE,Unravelling the pRotein Allosterome of Gene Expression,LS2,LS
+6,PREISS,Philipp,Ruprecht-Karls-Universität Heidelberg,University of Heidelberg,DE,UniRand,Random Unitaries in a Rapid Optical Lattice Simulator,PE2,PE
+7,RATZKE,Christoph,Eberhard Karls Universität Tübingen,University of Tübingen,DE,BugDrug,Bugs as Drugs: Understanding Microbial Interaction Networks to Prevent and Treat Infections,LS2,LS
+8,RODENFELS,Jonathan,Technische Universität Dresden,Technical University of Dresden,DE,EnBioSys,Energetics of Biological Systems,LS3,LS
+9,ROHM,Maria,Helmholtz Zentrum München - Deutsches Forschungszentrum für Gesundheit und Umwelt,Helmholtz-German Research Centre for Environmental Health,DE,StopWaste,Targeting the crosstalk of lipid and glucose metabolism to stop cancer associated wasting,LS4,LS
+10,RULANDS,Steffen,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,AHH-OMICS,Understanding collective mechanisms of cell fate regulation using single-cell genomics,PE3,PE
+3,RUNGE,Jakob,Deutsches Zentrum für Luft - und Raumfahrt (DLR),The German Aerospace Center (DLR),DE,CausalEarth,Advanced spatio-temporal causal inference for climate research,PE10,PE
+4,SCHIRMER,Lucas,Ruprecht-Karls-Universität Heidelberg,University of Heidelberg,DE,DecOmPress,Decoding spatio-temporal omics in progressive neuroinflammation,LS5,LS
+5,SCHNEIDER,Fabian,HITS gGmbH,HITS gGmbH,DE,TEL-STARS,Turbulent and Explosive Lives of Massive Stars,PE9,PE
+6,SCHREIEDER,Stefan,Leibniz Universität Hannover,University of Hannover,DE,RationAlgic,Rationality of varieties and algebraic cycles,PE1,PE
+7,SCHULZ,Edda,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,CisTune,"Regulatory Logic, Thresholds and Epigenetic Memory:  How cis regulatory landscapes tune gene activity during mammalian development",LS2,LS
+8,SIEGLOCH,Sebastian,Zentrum für Europaeische Wirtschaftsforschung GmbH,Centre for European Economic Research,DE,HIPPO,"Housing, Inequality and Public Policies",SH1,SH
+9,STANDL,Marie,Helmholtz Zentrum München - Deutsches Forschungszentrum für Gesundheit und Umwelt,Helmholtz-German Research Centre for Environmental Health,DE,ALLERGENE,"Allergic multimorbidity from birth to young adulthood: determinants, epigenetic regulation  and inflammatory processes",LS7,LS
+3,STARK,Konstantin,Ludwig-Maximilians Universität München,University of Munich (LMU),DE,T-MEMORE,Thrombotic MEMOry Linking a break in tolerance to platelets to REthrombosis,LS4,LS
+4,STASSART,Ruth,Universität Leipzig,Leipzig University,DE,AxoMyoGlia,Spatio-functional cellular interplay in peripheral nerve diseases,LS5,LS
+5,TCHUMATCHENKO,Tatjana,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,MolDynForSyn,How dendritic mRNA and protein distributions shape synaptic plasticity,LS5,LS
+6,TRUPPE,Stefan,Max-Planck-Gesellschaft zur Förderung der Wissenschaften e.V.,Max Planck Society,DE,CoMoFun,Cold Molecules for Fundamental Physics,PE2,PE
+7,TSCHAHARGANEH,Darjus,Deutsches Krebsforschungszentrum,German Cancer Research Centre,DE,CrispSCNAs,Dissecting the Functional and Therapeutic Impact of Somatic Copy Number Alterations (SCNAs),LS4,LS
+8,TSCHULIK,Kristina,Ruhr-Universität Bochum,Ruhr University Bochum,DE,MITICAT,Microfluidic Tuning of Individual Nanoparticles to Understand and Improve Electrocatalysis,PE4,PE
+9,URLAUB,Morelia,Helmholtz Zentrum fur Ozeanforschung Kiel,Helmholtz - Centre for Ocean Research - Kiel,DE,PRE-COLLAPSE,Slow sliding of volcanic flanks as PREcursor to catastrophic COLLAPSE,PE10,PE
+10,ÜSTÜN,Suayb,Eberhard Karls Universität Tübingen,University of Tübingen,DE,DIVERSIPHAGY,Utilizing diversity to decipher the role of autophagy in plant-microbe interactions,LS9,LS
+3,ALLEN,Micah,Aarhus Universitet,Aarhus University,DK,CANNABODIES,Modelling the Influence of Cannabinoids on the Embodied Mind,SH4,SH
+4,BARTUSEVICIUS,Henrikas,Aarhus Universitet,Aarhus University,DK,AWAR,Adapted to War,SH2,SH
+5,BRANDT,Martin,Københavns Universitet,University of Copenhagen,DK,TOFDRY,Trees outside forests in global drylands,PE10,PE
+6,CHATZIVASILEIADIS,Spyridon,Danmarks Tekniske Universitet,Technical University of Denmark,DK,VeriPhIED,Verified physics-aware machine learning to transform non-linear power system stability and optimization,PE7,PE
+7,CHAWES,Bo,Den Selvejende Institution Dansk BørneAstma Center,Danish Research Centre for Asthma in Childhood,DK,DEFEND,Dietary shaping of the early life metabolome and its role in healthy lung and brain development,LS7,LS
+8,FARDO,Francesca,Aarhus Universitet,Aarhus University,DK,IllusoryPain,Illusions in the thermo nociceptive system,SH4,SH
+9,LOMBORG,Stine,Københavns Universitet,University of Copenhagen,DK,DATAFIED LIVING,"Datafied living: pursuing human flourishing through mundane self-tracking across personal, work and institutional contexts in the welfare state.",SH3,SH
+3,AVCI,Can Onur,Agencia Estatal Consejo Superior de Investigaciones Científicas,Spanish National Research Council (CSIC),ES,MAGNEPIC,Magnetic Insulators: An Enabling Platform for Innovative Spintronic Concepts,PE3,PE
+4,BALSA MARTÍNEZ,Eduardo,CIC bioGUNE,CIC bioGUNE,ES,MitoCure,Molecular and metabolic mechanisms underlying mitochondrial dysfunction,LS4,LS
+5,BOERTIEN,Diederik,Centre d'Estudis Demogràfics,Centre for Demographic Studies (CED),ES,MINEQ,Sexual Minorities and Inequality of Opportunity,SH3,SH
+6,BUSQUETS GARCIA,Arnau,Fundacio Institut Mar d'Investigacions Mediques,IMIM,ES,HighMemory,Beyond classical conditioning:  Hippocampal circuits in higher-order memory processes,LS5,LS
+7,DISCETTI,Stefano,Universidad Carlos III de Madrid,"University Charles III, Madrid",ES,NEXTFLOW,Next-generation flow diagnostics for control,PE8,PE
+8,FERNÁNDEZ,Rosa,Agencia Estatal Consejo Superior de Investigaciones Científicas,Spanish National Research Council (CSIC),ES,SEA2LAND,Land animal evolution: genomic landmarks on the path to terrestrial life,LS8,LS
+9,GARCIA GONZALEZ,Daniel,Universidad Carlos III de Madrid,"University Charles III, Madrid",ES,4D-BIOMAP,Biomechanical Stimulation based on 4D Printed Magneto-Active Polymers,PE8,PE
+10,GUIJARRO CARRATALA,Nestor,Universidad de Alicante,University of Alicante,ES,RELICS,REfining LIgnin by advanced Catalytic schemes powered by Sunlight,PE8,PE
+3,IBAÑEZ,Julen,Asociacion de Investigacion MPC  Materials Physics Center,Materials Physics Center,ES,PhotoNow,Discovery and Characterization of Third Generation Nonlinear Photovoltaics,PE3,PE
+4,LIBERAL,Iñigo,Universidad Publica de Navarra,Public University of Navarre,ES,NZINATECH,Near-zero-index nanophotonic technologies,PE7,PE
+5,MARTÍNEZ-PÉREZ,María José,Universidad de Zaragoza,University of Zaragoza,ES,QFAST,Quantum Fast Spin dynamics addressed by High-Tc superconducting circuits,PE3,PE
+6,MERINO,Mario,Universidad Carlos III de Madrid,"University Charles III, Madrid",ES,ZARATHUSTRA,Revolutionizing advanced electrodeless plasma thrusters for space transportation,PE8,PE
+7,MORENO BRAVO,Juan Antonio,Agencia Estatal Consejo Superior de Investigaciones Científicas,Spanish National Research Council (CSIC),ES,CERCODE,Cerebellar control of Cortical Development,LS5,LS
+8,NEU,Gergely,Universitat Pompeu Fabra,Pompeu Fabra University,ES,SCALER,Provably Efficient Algorithms for Large-Scale Reinforcement Learning,PE6,PE
+9,PANSERA,Mario,Universidade da Coruña,University of A Coruña,ES,PROSPERA,"Prospering without growth: Science, Technology and Innovation in a post-growth era",SH2,SH
+10,PELAZ,Beatriz,Universidade de Santiago de Compostela,University of Santiago de Compostela,ES,SPACING,SPAtially-Controlled lIgand arraNGement by origami based nanoprinters,PE5,PE
+3,DASKALAKIS,Konstantinos,Aalto-yliopisto,Aalto University,FI,PLAS-OLED,Polariton Assisted White Light Generation in Organic Light-Emitting Diodes,PE4,PE
+4,GANNA,Andrea,Helsingin yliopisto,University of Helsinki,FI,AI-PREVENT,A nationwide artificial intelligence risk assessment for primary prevention of cardiometabolic diseases,LS7,LS
+5,PELJO,Pekka,Aalto-yliopisto,Aalto University,FI,Bi3BoostFlowBat,"Bioinspired, biphasic and bipolar flow batteries with boosters for sustainable large-scale energy storage",PE8,PE
+6,PUUMALA,Eeva,Tampereen Korkeakoulusaatio Sr,Tampere University,FI,EmergentCommunity,Coexistence and conflict in the age of complexity: An interdisciplinary study of community dynamics,SH2,SH
+7,TAHKOKALLIO,Jaakko,Helsingin yliopisto,University of Helsinki,FI,BOMPAC,Books of the Medieval Parish Church,SH6,SH
+8,UUSIMÄKI,Elisa,Helsingin yliopisto,University of Helsinki,FI,ANINAN,An Intersectional Analysis of Ancient Jewish Travel Narratives,SH5,SH
+9,VAPAAVUORI,Jaana,Aalto-yliopisto,Aalto University,FI,ModelCom,Autonomously adapting and communicating modular textiles,PE8,PE
+10,ALBERT,Cecile,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,SCALED,Integrating processes across scales to understand and predict ecological dynamics in landscapes,LS8,LS
+3,COUTENS,Audrey,Université de Bordeaux,University of Bordeaux,FR,Chemtrip,The chemical trail in protostars: From the deeply embedded phase to the planet forming disk,PE9,PE
+4,DETAPPE,Alexandre,Centre Paul Strauss,Paul Strauss Center,FR,theranoimmuno,Theranostic Immune Cell,LS9,LS
+5,DRISKO,Glenna,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,SCATTER,Bottom-up fabrication of nanostructured silicon based materials with unprecedented optical properties,PE5,PE
+6,DUMONT,Marie,Meteo-France,Meteo-France,FR,IVORI,"New Insights on the Snow Cover: From Snowflakes to Ice Sheets, in Seconds to Centuries.",PE10,PE
+7,GAO,Ziyang,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,UnIntUniBd,Unlikely Intersection and Uniform Bounds for Points,PE1,PE
+8,GINES,Guillaume,Ecole Supérieure de Physique et de Chimie Industrielle,ESPCI Paris,FR,MoP-MiP,Molecular Programming for MicroRNA profiling,LS9,LS
+9,HARPAZ,Yonatan,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,MRKT,Foundations of Motivic Real K-Theory,PE1,PE
+10,INGRAND-VARENNE,Estelle,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,GRAPH-EAST,Latin as an Alien Script in the Medieval Latin East,SH6,SH
+3,KONSTANTINIDES,Nikolaos,Université Paris Diderot  Paris 7,University Paris Diderot,FR,BehaEvoDevo,"Evolution of neuronal cell types, development and circuitry in the insect visual system: breaking down behavioural evolution into its constituent elements",LS3,LS
+4,LEROY,Felix,Institut national de la santé et de la recherche médicale,National Institute of Health and Medical Research (INSERM),FR,MotivatedBehaviors,Top down regulation of motivated behaviors by lateral septal integration of cortico-hippocampal inputs,LS5,LS
+5,LUNGHI,Claudia,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,HOPLA,Homeostatic Plasticity beyond the critical period,SH4,SH
+6,MEYNIEL,Florent,Commissariat à l'énergie atomique et aux énergies alternatives,French Alternative Energies and Atomic Energy Commission (CEA),FR,NEURAL-PROB,"A Bayesian sense of probability in the human brain: Its characteristics, neural bases and functions",SH4,SH
+7,QUADRANA,Leandro,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,GENTE_Pop,Genetic and Environmental Basis of Natural Transposition and its Potential to Create Adaptive Variation,LS2,LS
+8,RASCOVAN,Nicolas,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,PaleoMetAmerica,A microbial perspective of major historical events in the Southern Cone of the Americas,SH6,SH
+9,RAVETS,Sylvain,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,ARQADIA,Artificial quantum materials with photons: many-body physics and topology,PE2,PE
+3,REVEILLAUD,Julie,Institut National de la Recherche Agronomique,French National Institute for Agricultural Research (INRA),FR,RosaLind,Ecogenomics of Mosquito Microbe Symbiosis for Novel Control Strategies of Infectious Diseases,LS2,LS
+4,RIZZI,Luca,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,GeoSub,Geometric analysis of sub Riemannian spaces through interpolation inequalities,PE1,PE
+5,ROMIGUIER,Jonathan,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,RoyalMess,Evolutionary genomics of royalty in Messor hybridogenetic ants,LS8,LS
+6,RUA,Rejane,Institut national de la santé et de la recherche médicale,National Institute of Health and Medical Research (INSERM),FR,CNSentinels,Spatiotemporal control of neuroinfection by meningeal macrophages,LS6,LS
+7,RUDI,Alessandro,Institut National de Recherche en Informatique et en Automatique,National Institute for Research in Computer Science and Automatic Control (INRIA),FR,REAL,Reliable and cost-effective large scale machine learning,PE6,PE
+8,RUTA,Beatrice,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,CoherentGlasses,A coherent view of Glasses: How coherent x-rays can elucidate the complex dynamics of glasses,PE3,PE
+9,TEXIER,Damien,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,HT-S4DefOx,High Temperature – Small Scale Sub-Surface Deformation assisted by Oxidation,PE8,PE
+10,TURLIER,Hervé,Centre National de la Recherche Scientifique (CNRS),National Center for Scientific Research (CNRS),FR,DeepEmbryo,Reverse-engineering the development of embryos with physics-informed machine learning,PE7,PE
+3,ANDICS,Attila,Eötvös Loránd Tudományegyetem,Eötvös Loránd University,HU,VOIMA,"Voice and speech perception across mammals: a comparative study of humans, dogs and pigs",SH4,SH
+4,COURTNEY,David,University College Dublin,University College Dublin,IE,PTFLU,Post-transcriptional regulation of influenza A virus RNA,LS6,LS
+5,GILLAN,Claire,Trinity College Dublin,Trinity College Dublin,IE,HABIT,Making and Breaking Habits,SH4,SH
+6,LOPEZ,Lorna,Trinity College Dublin,Trinity College Dublin,IE,FamilySleeps,Disrupted Circadian Rhythms in Families - an Endophenotype of Autism Spectrum Disorder?,LS7,LS
+7,LUNGHI,Alessandro,Trinity College Dublin,Trinity College Dublin,IE,AI-DEMON,Artificial intelligence design of molecular nano-magnets and molecular qubits,PE4,PE
+8,ABELIOVICH,Ruthie,University of Haifa,University of Haifa,IL,DYBBUK,"Yiddish Popular Theatre, 1880-1920: Performance as Knowledge",SH5,SH
+9,ADAM,Yoav,The Hebrew University of Jerusalem,The Hebrew University of Jerusalem,IL,AllOptHIPP,All-Optical Dissection of Hippocampal Circuits Using Voltage Imaging,LS5,LS
+10,ADLER ABRAMOVICH,Lihi,Tel Aviv University,Tel Aviv University,IL,PersonalBone,Multifunctional Personalized Self-Assembled Biomaterials for Bone Regeneration,LS7,LS
+3,BARAK,Liron,Tel Aviv University,Tel Aviv University,IL,BoostDiscovery,Boosting the discovery using τs in the ATLAS detector at the Large Hadron Collider,PE2,PE
+4,BEKENSTEIN,Yehonadav,Technion - Israel Institute of Technology,Technion - Israel Institute of Technology,IL,HeteroPlates,Halide perovskite heterostructures based on 2D nanoplates building blocks for next generation optoelectronics,PE5,PE
+5,BEN-DAVID,Uri,Tel Aviv University,Tel Aviv University,IL,CancerAneuploidy,Understanding and targeting  the functional consequences of aneuploidy in cancer,LS4,LS
+6,COHEN,Gil,Tel Aviv University,Tel Aviv University,IL,EXT,Randomness Extractors: Constructions and Applications,PE6,PE
+7,DRIER,Yotam,The Hebrew University of Jerusalem,The Hebrew University of Jerusalem,IL,CancerEpiTopology,"Elucidating the mechanisms, heterogeneity and role of epigenetic topological alterations in cancer",LS4,LS
+8,EFREMENKO,Klim,Ben-Gurion University of the Negev,Ben-Gurion University of the Negev,IL,Interactive,Coding for Interactive Communication and the Power of Adaptivity,PE6,PE
+9,GOLDSTEIN,Ido,The Hebrew University of Jerusalem,The Hebrew University of Jerusalem,IL,MemoChrom,Adaptation to Recurring Fasting by Chromatin Mediated Memory,LS4,LS
+10,HOD,Idan,Ben-Gurion University of the Negev,Ben-Gurion University of the Negev,IL,MOFAmmonia,All Metal-Organic Framework-Based Architecture for Efficient Electrocatalytic Ammonia Production,PE5,PE
+3,KEREN,Leeat,Weizmann Institute of Science,Weizmann Institute of Science,IL,ImageMelanoma,Revealing the immune tumor microenvironment (iTME) in melanoma by multiplexed imaging,LS4,LS
+4,KOLOSKA,Hannelies,The Hebrew University of Jerusalem,The Hebrew University of Jerusalem,IL,VISIONIS,Visuality in the Qur'an and Early Islam,SH5,SH
+5,KOREN,Itay,Bar Ilan University,Bar Ilan University,IL,HyDegronomics,Cracking the Code for Protein Quality Control Mechanisms Recognizing Exposed Hydrophobicity in Protein Substrates,LS1,LS
+6,MANSOUR,Abed,The Hebrew University of Jerusalem,The Hebrew University of Jerusalem,IL,STEMAD3D,Elucidating the Molecular and Cellular Mechanisms Underlying Neurodegeneration Using Advanced Stem Cell-Based Technologies,LS5,LS
+7,PARTER,Merav,Weizmann Institute of Science,Weizmann Institute of Science,IL,DISTRES,A Graph Theoretic Approach for Resilient Distributed Algorithms,PE6,PE
+8,REUVENI,Shlomi,Tel Aviv University,Tel Aviv University,IL,FLUCTENZ,The Fluctuating Enzyme: From Catalysis to Vibrational Dynamics,PE4,PE
+9,ROSENTAL,Benyamin,Ben-Gurion University of the Negev,Ben-Gurion University of the Negev,IL,CoralStem,Stem cell isolation and transplantation in Hexacorallia: Toward cell therapy for corals,LS9,LS
+3,SALOMON,Roy,Bar Ilan University,Bar Ilan University,IL,UnReal,"A Phenomenological, Computational and Neural model of the Sense of Reality",SH4,SH
+4,SHALEV-BENAMI,Moran,Weizmann Institute of Science,Weizmann Institute of Science,IL,CellCellEM,Communications at the Synapse - a Near Atomic Resolution View into Cell Cell Communication in the CNS,LS1,LS
+5,SHEIN-IDELSON,Mark,Tel Aviv University,Tel Aviv University,IL,reptiCode,The Evolution and Function of Ancestral Brain States,LS5,LS
+6,TRAKHTENBROT,Benny,Tel Aviv University,Tel Aviv University,IL,ExSMBHs,The Missing Pieces of the SMBH Accretion Puzzle: Revealing Extreme Accretion Modes,PE9,PE
+7,YAMIN,Dan,Tel Aviv University,Tel Aviv University,IL,DCUBATION,Redefining the term 'Incubation Period' using large-scale digital data,LS7,LS
+8,ALBISETTI,Edoardo,Politecnico Di Milano,Polytechnic of Milan,IT,B3YOND,Beyond nanofabrication via nanoscale phase engineering of matter,PE8,PE
+9,BELLA,Federico,Politecnico Di Torino,Polytechnic University of Turin,IT,SuN2rise,Solar driven electrochemical nitrogen fixation for ammonia refinery,PE8,PE
+10,BERNARDI,Giulio,"Scuola IMT (Istituzioni, Mercati, Tecnologie) Alti Studi di Lucca",IMT School for Advanced Studies Lucca,IT,TweakDreams,Tweaking dreams: non invasive modulation of the level and content of mental activity during sleep,SH4,SH
+3,SCAZZA,Francesco,Università degli Studi di Trieste,University of Trieste,IT,OrbiDynaMIQs,Two-orbital quantum many body systems: from Kondo dynamics to mediated interactions,PE2,PE
+4,TAMAGNONE,Michele,Fondazione Istituto Italiano di Tecnologia,Italian Institute of Technology,IT,SubNanoOptoDevices,Sub-nanometer quantum engineering of 2D materials for optoelectronic devices,PE7,PE
+5,VRYONIDOU,Eleni,Università di Bologna,University of Bologna,IT,EFT4NP,Probing New Physics at the Large Hadron Collider: the Effective Field Theory Pathway,PE2,PE
+6,BISSYANDÉ,Tegawendé F.,Université du Luxembourg,University of Luxembourg,LU,NATURAL,Natural Program Repair,PE6,PE
+7,BOL,Thijs,Universiteit van Amsterdam,University of Amsterdam,NL,CAREER,From School to Career: Towards A Career Perspective on the  Labor Market Returns to Education,SH3,SH
+8,BOTHMA,Jacques,Koninklijke Nederlandse Akademie van Wetenschappen - KNAW,Royal Netherlands Academy of Arts and Sciences,NL,TF-Dynamics,Illuminating the role of transcription factor dynamics in development,LS3,LS
+9,CARDINAELS,Ruth,Technische Universiteit Eindhoven,Eindhoven University of Technology,NL,PEM-SPrint,Polymeric Electromagnetic Metamaterials created by flow-induced Structure PRINTing,PE8,PE
+10,COUSIJN,Janna,Universiteit van Amsterdam,University of Amsterdam,NL,AGING MATTERS,Aging Brain Matter; a developmental key to addiction risk and resilience,SH4,SH
+3,CURTO,Alberto G.,Technische Universiteit Eindhoven,Eindhoven University of Technology,NL,CHANSON,Chiral semiconductor nanophotonics for ultraresolved molecular sensing,PE7,PE
+4,DUCAS,Leo,Dutch Research Organisation (N.W.O),N.W.O,NL,ARTICULATE,A Reduction Theory for Codes and Lattices in Cryptography,PE6,PE
+5,EHRLER,Bruno,Dutch Research Organisation (N.W.O),N.W.O,NL,SHAPE,Synaptic Switching with Halide Perovskites,PE4,PE
+6,FARIAS GALDAMES,Ginny,Universiteit Utrecht,Utrecht University,NL,NEUROSORTER,Uncovering the machinery for the sorting of  newly synthesized proteins into the axon,LS3,LS
+7,FRIED,Eiko,Universiteit Leiden,Leiden University,NL,WARN-D,Using Network Theory to Predict Depression Onset and Build a Personalized Early Warning System,SH4,SH
+8,GAVVES,Efstratios,Universiteit van Amsterdam,University of Amsterdam,NL,EVA,Expectational Visual Artificial Intelligence,PE6,PE
+9,GEHART,Helmuth,Prinses Maxima Centrum voor Kinderoncologie,Princess Maxima Center for Pediatric Oncology,NL,EnviroTag,Unbiased niche identification and manipulation in stem cells and cancer,LS4,LS
+10,HARBERS,Imke,Universiteit van Amsterdam,University of Amsterdam,NL,CitizenGap,Legal Identity for All?,SH2,SH
+3,HAUPTMANN,Nadine,Radboud Universiteit Nijmegen,Radboud University Nijmegen,NL,DeQ,Quantifying electron electron forces at the atomic scale,PE3,PE
+4,HEUTS,Gijs,Universiteit Utrecht,Utrecht University,NL,ChromSpaces,Chromatic homotopy theory of spaces,PE1,PE
+5,HOEKZEMA,Elseline,Universiteit Leiden,Leiden University,NL,PREGBRAIN,Pregnancy and the Human Brain: A Window of Neuroplasticity,SH4,SH
+6,HOYE,Jonathon Matthew,Leiden University,Leiden University,NL,JUSTREMIT,Global Justice and the Remittances Challenge: Confronting the €1 trillion “gap” in the literature,SH5,SH
+7,KIM,Rakhyun E.,Universiteit Utrecht,Utrecht University,NL,PROBLEMSHIFTING,"Problem-Shifting between International Environmental Treaty Regimes: Causes, Consequences, and Solutions",SH2,SH
+8,KOK,Rianne,Erasmus University Rotterdam,Erasmus University Rotterdam,NL,FAMI-LIES,Early roots of lying in families,SH3,SH
+9,KRAUSE,Kristine,Universiteit van Amsterdam,University of Amsterdam,NL,ReloCare,Relocating Care within Europe: Moving the elderly to places where care is more affordable,SH3,SH
+10,KRUG,Dominik,Universiteit Twente,University of Twente,NL,BU-PACT,Unravelling bubble-particle collisions in turbulence,PE8,PE
+3,KRUIKEMEIER,Sanne,Universiteit van Amsterdam,University of Amsterdam,NL,HUNTING,Hunting for Voters: The Impact of Data-Driven Campaigning on Democracy,SH3,SH
+4,KUSCHMINDER,Katie,Universiteit Maastricht,Maastricht University,NL,Reintegrate,Reintegration Governance,SH2,SH
+5,LEVATO,Riccardo,Universitair Medisch Centrum Utrecht,University Medical Center Utrecht,NL,VOLUME-BIO,"Volumetric light-driven bioprinting capturing complex physiological shape, size and function in artificial tissues and organoids",PE8,PE
+6,LIN,Yanliu,Universiteit Utrecht,Utrecht University,NL,CoChina,"Collaborative Planning in China: Authoritarian Institutions, New Media, Power Relations, and Public Spheres",SH2,SH
+7,MACKUS,Adriaan,Technische Universiteit Eindhoven,Eindhoven University of Technology,NL,BottomUp3D,From the bottom-up: a physico-chemical approach towards 3D nanostructures with atomic-scale control,PE5,PE
+8,MEDEMA,Marnix,Wageningen University,Wageningen University,NL,DECIPHER,A computational framework to interpret the chemical language of the microbiome,LS2,LS
+9,MOHAJERIN ESFAHANI,Peyman,Technische Universiteit Delft,Delft University of Technology,NL,TRUST,Control without Trust: A Distributionally Robust Approach,PE7,PE
+3,MOLENAAR,Inge,Radboud Universiteit Nijmegen,Radboud University Nijmegen,NL,HHAIR,Hybrid Human-AI Regulation:  Supporting Young Learners' Self Regulated Learning,SH3,SH
+4,NEM SINGH,Jewellord,Universiteit Leiden,Leiden University,NL,GRIP-ARM,Green Industrial Policy in the Age of Rare Metals: A Transregional Comparison of Growth Strategies in Rare Earth Mining,SH2,SH
+5,NOORDENBOS,Boris,Universiteit van Amsterdam,University of Amsterdam,NL,CONSPIRATORIALME MORY,Cultures of Suspicion in Post-Socialist Europe,SH5,SH
+6,OVERVELDE,Johannes T. B.,Dutch Research Organisation (N.W.O),N.W.O,NL,FlowBot,Smart fluidic circuits for autonomous soft robots,PE8,PE
+7,PANG,Baoxu,Academisch Ziekenhuis Leiden - Leids Universitair Medisch Centrum,Leiden University Medical Center (LUMC),NL,Silencer,The dark side of the genome: systematically studying the biology of repressive elements— silencers—in the human genome,LS2,LS
+8,PATTERSON,James,Universiteit Utrecht,Utrecht University,NL,BACKLASH,Climate Backlash: Contentious Reactions to Policy Action,SH2,SH
+9,PAUL,Caroline,Technische Universiteit Delft,Delft University of Technology,NL,BioAlk,Biocatalytic alkylation: fitting enzymes for selective C-C bond formations,PE5,PE
+3,ZVONAREVA,Olga,Universiteit Maastricht,Maastricht University,NL,InPart,Public participation by other means? Informal practices to engage with matters of collective concern in non democratic settings,SH3,SH
+4,ERDAL,Marta Bivand,Institutt for fredsforskning Stiftelse,"Peace Research Institute, Oslo",NO,MigrationRhythms,Migration rhythms in trajectories of upward social mobility in Asia,SH2,SH
+5,ERIKSEN,Marianne Hem,Universitetet i Oslo,University of Oslo,NO,BODY-POLITICS,"Body-Politics: Personhood, Sexuality, and Death in the Iron and Viking Ages",SH6,SH
+6,KAUFMANN,Mareile,Universitetet i Oslo,University of Oslo,NO,Digital DNA,"The changing relationships between digital technologies, DNA and evidence",SH3,SH
+7,MAGNUS,Maria Christine,Nasjonalt Folkehelseinstitutt,Norwegian Institute of Public Health,NO,INFERTILITY,Understanding the causal nature of the relationship between infertility and cardiovascular disease,LS7,LS
+8,MANCILLA,Alejandra,Universitetet i Oslo,University of Oslo,NO,DynamiTE,Dynamic Territory: A Normative Framework for Territory in the Post Holocene,SH5,SH
+9,TORGERSEN,Jan,Norges teknisk naturvitenskapelige universitet Trondheim,Norwegian University of Science and Technology Trondheim,NO,ELECTRODE,Exploring the Limits of Mass Transport in Electro Chemical Energy Converters ThRough uncOnstrained Design and Interface Engineering,PE8,PE
+3,VOJE,Kjetil Lysne,Universitetet i Oslo,University of Oslo,NO,ROCKS-PARADOX,Dissecting the paradox of stasis in evolutionary biology,LS8,LS
+4,CZERWINSKI,Wojciech,Uniwersytet Warszawski,University of Warsaw,PL,INFSYS,Challenging Problems in Infinite-State Systems,PE6,PE
+5,PILIPCZUK,Michał,Uniwersytet Warszawski,University of Warsaw,PL,BOBR,Decomposition methods for discrete problems,PE6,PE
+6,STACHEWICZ,Urszula,Akademia Gorniczo Hutnicza Im. Stanislawa Staszica W Krakowie,AGH University of Science and Technology,PL,BioCom4SavEn,Bioinspired Composites Strategies for Saving Energy,PE8,PE
+7,AGAREZ,Ricardo,Universidade de Evora,University of Evora,PT,ReARQ.IB,"Built Environment Knowledge for Resilient, Sustainable Communities: Understanding Everyday Modern Architecture and Urban Design in the Iberian Peninsula (1939-1985)",SH5,SH
+8,BARRIGA,Elias,Fundação Calouste Gulbenkian,Calouste Gulbenkian Foundation,PT,MOVE_ME,Mechanical and Electrical Guidance of Collective Cell Migration in vivo,LS3,LS
+9,CRUZ,Sónia,Universidade de Aveiro,University of Aveiro,PT,KleptoSlug,Kleptoplasty: The sea slug that got away with stolen chloroplasts,LS8,LS
+3,GOMES,Barbara,Universidade de Coimbra,University of Coimbra,PT,EOLinPLACE,Choice of where we die: a classification reform to discern diversity in individual end of life pathways,SH3,SH
+4,OLIVEIRA MAIA,Albino,Fundação Champalimaud,Champalimaud Foundation,PT,CalorieRL,Reinforcement learning from post-ingestive calories: from body to brain in health and disease,SH4,SH
+5,ROCHA,Paulo,Universidade de Coimbra,University of Coimbra,PT,GREEN,Generating Energy from Electroactive Algae,PE8,PE
+6,BANEU,Alexandra,Universitatea Babeș-Bolyai,Babes-Bolyai University,RO,NOTA,Note-taking and Notebooks as Channels of Medieval Academic Dissemination across Europe,SH6,SH
+7,BARANDUN,Jonas,Umea universitet,Umea University,SE,PolTube,A molecular model of the microsporidian infection apparatus,LS1,LS
+8,BJÖRKSTRÖM,Niklas,Karolinska Institutet,Karolinska Institute,SE,RESIDE,Dissecting tissue-resident lymphocyte homeostasis in humans,LS6,LS
+9,BOURGINE,Paul,Lunds universitet,Lund University,SE,hOssicle,Bioengineering of human ossicles as advanced in vivo hematopoietic model,LS9,LS
+10,FEINER,Nathalie,Lunds universitet,Lund University,SE,EvoOnRepeat,Unravelling the developmental origins of parallel evolution,LS8,LS
+3,GERBER,Alison,Lunds universitet,Lund University,SE,SHOW AND TELL,"Show and Tell: Scientific representation, algorithmically generated visualizations, and evidence across epistemic cultures",SH3,SH
+4,GLOWACKI,Eric,Linköping Universitet,Linköping University,SE,OPTEL-MED,Optoelectronic medicine  nerve cell regulation with light,PE7,PE
+5,HAMMARLUND,Emma,Lunds universitet,Lund University,SE,ParadOX,The hardships for life to become big  – rethinking hypoxia as an evolutionary driver for the rise of complex multicellularity,LS8,LS
+6,HOFFECKER,Ian,Kungliga Tekniska Högskolan,KTH Royal Institute of Technology,SE,DNA_MICROSCOPY,In situ DNA sequencing based microscopy for subcellular spatial transcriptomics,LS2,LS
+7,JEWELL,Jessica,Chalmers tekniska högskola,Chalmers University of Technology,SE,MANIFEST,MechANIsms and actors of Feasible Energy Transitions,SH2,SH
+8,JOHANSSON,Magnus,Uppsala Universitet,Uppsala University,SE,SMACK,Single-molecule tracking for live-cell protein synthesis kinetics,LS1,LS
+9,LANDEGREN,Nils,Karolinska Institutet,Karolinska Institute,SE,SEXimmune,Deciphering sex differences in the human immune system,LS4,LS
+10,LIEBI,Marianne,Chalmers tekniska högskola,Chalmers University of Technology,SE,MUMOTT,Multi-Modal Tensor Tomography,PE4,PE
+3,UNAT,Didem,Koç Üniversitesi,Koc University,TR,BeyondMoore,Pioneering a New Path in Parallel Programming Beyond Moore’s Law,PE6,PE
+4,ADAMS-PRASSL,Abigail,University of Oxford,University of Oxford,UK,FEMPOWER,Inefficient Decision Making and Female Bargaining Power,SH1,SH
+5,ADAMS-PRASSL,Jeremias,University of Oxford,University of Oxford,UK,iManage,Rethinking Employment Law for a world of Algorithmic Management,SH2,SH
+6,ARES,Natalia,University of Oxford,University of Oxford,UK,QuThenS,Quantum Thermodynamics in the Solid-state,PE3,PE
+7,BAKER,Tessa,"Queen Mary and Westfield College, University of London","Queen Mary and Westfield College, University of London",UK,SHADE,Statistical Host Identification As a Test of Dark Energy,PE9,PE
+8,BATE,David,University of Warwick,University of Warwick,UK,STMAGMT,Structure Theorems for Modern Aspects of Geometric Measure Theory,PE1,PE
+9,BERTA,Mario,"Imperial College of Science, Technology and Medicine","Imperial College of Science, Technology and Medicine",UK,QEntropy,Entropy for Quantum Information Science,PE6,PE
+10,BONEVA,Teodora,University of Oxford,University of Oxford,UK,BELIEFS,Beliefs and Gender Inequality,SH1,SH
+3,BORMANN,Nils Christian,University of Essex,University of Essex,UK,DANGER,"Democracy, Anger & Elite Responses",SH2,SH
+4,BOSTEN,Jenny,University of Sussex,University of Sussex,UK,COLOURCODE,The Mind's Eye: Decoding Colour Experience,SH4,SH
+5,BOUVILLE,Florian,"Imperial College of Science, Technology and Medicine","Imperial College of Science, Technology and Medicine",UK,SSTEEL,small Scale interlocking mechanisms for Strong and Tough mEtamatEriaL,PE8,PE
+6,BROWN,Hannah,Durham University,Durham University,UK,ALIVEAfrica,"Animals, Livelihoods and Well-being in Africa",SH3,SH
+7,BULL,Philip,"Queen Mary and Westfield College, University of London","Queen Mary and Westfield College, University of London",UK,MapItAll,Illuminating the darkness with precision maps of neutral hydrogen across cosmic time,PE9,PE
+8,BUSH,Ruth,University of Bristol,University of Bristol,UK,AFRIUNI,The Creative Lives of African Universities: Pedagogies of Hope and Despair,SH5,SH
+9,BZDEK,Bryan,University of Bristol,University of Bristol,UK,AeroSurf,Comprehensive Investigations of Aerosol Droplet Surfaces and Their Climate Impacts,PE10,PE
+10,COLLETT,Thomas,University of Portsmouth,University of Portsmouth,UK,LensEra,The statistical era of strong gravitational lensing cosmology,PE9,PE
+3,DE MENDOZA,Alex,"Queen Mary and Westfield College, University of London","Queen Mary and Westfield College, University of London",UK,METHYLEVOL,Deciphering the evolution and roles of cytosine DNA methylation across eukaryotes,LS8,LS
+4,DI FLORIO,Arianna,Cardiff University,Cardiff University,UK,GASSP,Genetic Architecture Of Sex Steroid-related Psychiatric Disorders,LS5,LS
+5,DUCCESCHI,Michele,University of Edinburgh,University of Edinburgh,UK,NEMUS,Numerical Restoration of Historical Musical Instruments,SH5,SH
+6,ENGELMANN,Lukas,University of Edinburgh,University of Edinburgh,UK,TER,The Epidemiological Revolution,SH6,SH
+7,FENWICK,Corisande,University College London,University College London,UK,EVERYDAYISLAM,"Becoming Muslim: Cultural Change, Everyday Life and State Formation in early Islamic North Africa (600 1000)",SH6,SH
+8,FINTZEN,Jessica,University of Cambridge,University of Cambridge,UK,GReatLaP,"p-adic Groups, Representations, and the Langlands Program",PE1,PE
+9,GALLEGO,Juan Álvaro,"Imperial College of Science, Technology and Medicine","Imperial College of Science, Technology and Medicine",UK,IntuitiveBCI,"Next-generation Brain Computer Interfacing to enable intuitive, skilled control",PE7,PE
+10,GEROSA,Davide,University of Birmingham,University of Birmingham,UK,GWmining,Gravitational-wave data mining,PE9,PE
+3,GIERING,Sarah,National Oceanography Centre,National Oceanography Centre,UK,ANTICS,Advancing Novel imaging Technologies and data analyses in order to understand Interior ocean Carbon Storage,PE10,PE
+4,GUO,Heng,University of Edinburgh,University of Edinburgh,UK,NACS,New Approaches to Counting and Sampling,PE6,PE
+5,HAUSER,Tobias,University College London,University College London,UK,NeuroFlux,Understanding the impact of brain fluctuations on decision making,SH4,SH
+6,HEAZLEWOOD,Brianna,University of Oxford,University of Oxford,UK,RadiCool,Taming the reaction dynamics of paramagnetic species,PE4,PE
+7,HILDEBRAND,Falk,Quadram Institute Bioscience,Quadram Institute Bioscience,UK,EPYC,Evolution of pro- and eukaryotic commensals within the human gut,LS2,LS
+8,HIN,Remco,University of Bristol,University of Bristol,UK,VapLoss,The chemical consequences of vapour loss during planetary accretion,PE10,PE
+9,HOWIE,Ross,University of Edinburgh,University of Edinburgh,UK,MetElOne,The Metallization Conditions of Element One,PE3,PE
+10,HUTCHINGS,Alice,University of Cambridge,University of Cambridge,UK,iCrime,Interdisciplinary Cybercrime Project,SH3,SH
+3,JACOBS,Guy,University of Cambridge,University of Cambridge,UK,MOBILE,Movement networks and genetic evolution among tropical hunter-gatherers of island Southeast Asia,SH6,SH
+4,KATIKIREDDI,Srinivasa Vittal,University of Glasgow,University of Glasgow,UK,HEED,Health Equity and its Economic Determinants (HEED): A Pan-European Microsimulation model for Health impacts of Income and Social Security Policies,SH3,SH
+5,KIRCHHELLE,Charlotte,University of Oxford,University of Oxford,UK,EDGE-CAM,Edge-based mechanisms coordinating cell wall assembly during plant morphogenesis,LS3,LS
+6,KOK,Peter,University College London,University College London,UK,EXPECTPERCEPT,How our expectations can make us hallucinate: the neural mechanisms underlying perception,LS5,LS
+7,KUCHENBAECKER,Karoline,University College London,University College London,UK,DIVERGE,Depression in diverse populations: Unravelling the interplay between genes and environment,LS7,LS
+8,LEDESMA AMARO,Rodrigo,"Imperial College of Science, Technology and Medicine","Imperial College of Science, Technology and Medicine",UK,DEUSBIO,Deciphering and Engineering the overlooked but Universal phenomenon of Subpopulations in BIOtechnology,LS9,LS
+9,LEGENDRE,Marie,University of Edinburgh,University of Edinburgh,UK,CALIPHALFINANCES,The Finances of the Caliphate: Abbasid Fiscal Practice in Islamic Late Antiquity,SH6,SH
+3,LEHMAN,Julia,University of Leeds,University of Leeds,UK,HILTRAC,Highly Instrumented Low Temperature Reaction Chamber,PE4,PE
+4,LENNOX,Alastair,University of Bristol,University of Bristol,UK,SENF,Selective Electrochemical Nucleophilic Fluorination,PE5,PE
+5,LINDNER,Attila Sandor,University College London,University College London,UK,MW_INEQ,"Minimum Wages, (Mis)Allocation of Labour, and Inequality",SH1,SH
+6,MAGEE,Michael,Durham University,Durham University,UK,UBIQGAP,The ubiquity of optimal spectral gaps,PE1,PE
+7,MAGRI,Luca,University of Cambridge,University of Cambridge,UK,PhyCo,Physics-constrained adaptive learning for multi physics optimization,PE8,PE
+8,MALIK,Mehul,Heriot-Watt University,Heriot-Watt University,UK,PIQUaNT,Photonics for High Dimensional Quantum Networking,PE7,PE
+9,MICHIELETTO,Davide,University of Edinburgh,University of Edinburgh,UK,TAP,Topologically Active Polymers,PE3,PE
+10,MONTGOMERY,Richard,University of Birmingham,University of Birmingham,UK,SSiGraph,Spanning Subgraphs in Graphs,PE1,PE
+3,NICHOLL,Matt,University of Birmingham,University of Birmingham,UK,KRANK,KilonovaRank: gravitational wave counterparts and exotic transients with next generation surveys,PE9,PE
+4,PEACOCK,Vita,King's College London,King's College London,UK,SAMCOM,Surveillance and Moral Community: Anthropologies of Monitoring in Germany and Britain,SH3,SH
+5,PEREIRA,Ryan,Heriot-Watt University,Heriot-Watt University,UK,BOOGIE,Breathing Oceans: understanding the organic skin that modulates the exchange of greenhouse gases between the atmosphere and the ocean,PE10,PE
+6,PROROK,Amanda,University of Cambridge,University of Cambridge,UK,gAIa,Scalable Co-optimization of Collective Robotic Mobility and the Artificial Environment,PE7,PE
+7,SENGUPTA,Nikhil,University of Kent,University of Kent,UK,PSYPOL,"The Psychology of Public Policy: Inequality, Immigration and International Relations",SH3,SH
+8,SHAPIRO,Alexander,University of Edinburgh,University of Edinburgh,UK,NCST,"Non-compact Chern Simons Theory, Positive Representations, and Cluster Varieties",PE1,PE
+9,SILVER,Jonathan,University of Sheffield,University of Sheffield,UK,GlobalCORRIDOR,"Urbanization, everyday life and techno-social differentiation",SH2,SH
+10,SIMION,Mona,University of Glasgow,University of Glasgow,UK,KNOWLEDGELAB,Knowledge-First Social Epistemology,SH4,SH

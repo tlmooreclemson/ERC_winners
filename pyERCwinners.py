@@ -7,14 +7,16 @@ Created by: Thomas Moore
 # Load modules
 from tabula import read_pdf
 import pandas as pd
-
+from pybliometrics.scopus import AuthorSearch, AuthorRetrieval, CitationOverview
 
 # Import the data for ERC StG 2020 Winners
 file_path = "https://erc.europa.eu/sites/default/files/document/file/erc_2020_stg_results_all_domains.pdf"
 
 df = read_pdf(file_path, pages = "all")
-df = df[0::10] # extract only the relevant lists
+# df = df[0::10] # extract only the relevant lists
 df = pd.concat(df) # concantate all the data frames into a single large one
+df = df.replace({'-\r': ' '}, regex=True) # remove these separators from file
+df.columns = df.columns.str.replace('\r', ' ') # remove \r from column names
 
 # Remove irrelevant rows
 df = df[~df['Last name'].isin(['Last name'])] # drop rows with 'last name'
